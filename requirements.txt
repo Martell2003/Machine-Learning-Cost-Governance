@@ -1,0 +1,32 @@
+# Core data processing
+pandas
+numpy
+pyyaml
+python-dotenv
+openpyxl
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Machine Learning
+scikit-learn
+statsmodels
+joblib
+
+# Explainability & Visualization
+shap
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Development
+jupyter
+pytest
+black
+flake8
+tqdm
+ipywidgets
