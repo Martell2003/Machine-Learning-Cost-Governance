@@ -23,7 +23,9 @@ MODELS_SAVED = Path("models/saved")
 # Model settings
 TRAIN_SPLIT = 0.70
 PREDICTION_POINT = 0.20    # predict at 20% project completion
-MAPE_TARGET = 15.0          # target MAPE threshold
+MAPE_TARGET = 15.0          # kept for reference, but MAE is primary metric for regression
+MAE_TARGET = 10.0          # target MAE threshold primary metric
+RMSE_TARGET = 15.0        #secondary metric
 N_ESTIMATORS = 100          # Random Forest trees
 RANDOM_STATE = 42
 
