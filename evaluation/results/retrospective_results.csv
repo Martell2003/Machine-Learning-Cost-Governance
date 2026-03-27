@@ -1,0 +1,5 @@
+project_name,actual_variance,actual_tier,final_prediction,final_tier,tier_correct,prediction_error,first_amber_period,first_amber_completion,first_red_period,lead_time_periods,lead_time_adequate,total_periods
+C2015-06 Family Residence (2),29.5349,CRITICAL,43.5917,CRITICAL,True,14.0568,3.0,33.3,3.0,6.0,True,9
+C2014-06 Apartment Building (2),3.2337,GREEN,22.8112,CRITICAL,False,19.5775,3.0,16.7,17.0,15.0,True,18
+C2019-05 Fuel Tank Filter,1.3935,GREEN,-1.5745,GREEN,True,2.968,,,,,,9
+C2019-03 Emergency Department,-63.5269,RED,11.5164,RED,True,75.0433,3.0,14.3,3.0,18.0,True,21

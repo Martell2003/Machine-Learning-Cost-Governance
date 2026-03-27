@@ -1,0 +1,50 @@
+project_name,period,completion_pct,rf_prediction,tier_name,periods_remaining
+C2015-06 Family Residence (2),3,33.3,20.2715,CRITICAL,6
+C2015-06 Family Residence (2),4,44.4,19.6648,RED,5
+C2015-06 Family Residence (2),5,55.6,39.823,CRITICAL,4
+C2015-06 Family Residence (2),6,66.7,38.7942,CRITICAL,3
+C2015-06 Family Residence (2),7,77.8,44.854,CRITICAL,2
+C2015-06 Family Residence (2),8,88.9,43.8392,CRITICAL,1
+C2015-06 Family Residence (2),9,100.0,43.5917,CRITICAL,0
+C2014-06 Apartment Building (2),3,16.7,9.0081,AMBER,15
+C2014-06 Apartment Building (2),4,22.2,9.4261,AMBER,14
+C2014-06 Apartment Building (2),5,27.8,8.3102,AMBER,13
+C2014-06 Apartment Building (2),6,33.3,9.9842,AMBER,12
+C2014-06 Apartment Building (2),7,38.9,8.325,AMBER,11
+C2014-06 Apartment Building (2),8,44.4,6.7541,AMBER,10
+C2014-06 Apartment Building (2),9,50.0,5.6739,AMBER,9
+C2014-06 Apartment Building (2),10,55.6,1.8764,GREEN,8
+C2014-06 Apartment Building (2),11,61.1,0.9175,GREEN,7
+C2014-06 Apartment Building (2),12,66.7,-0.2818,GREEN,6
+C2014-06 Apartment Building (2),13,72.2,-0.2818,GREEN,5
+C2014-06 Apartment Building (2),14,77.8,-0.4835,GREEN,4
+C2014-06 Apartment Building (2),15,83.3,-1.7962,GREEN,3
+C2014-06 Apartment Building (2),16,88.9,-0.425,GREEN,2
+C2014-06 Apartment Building (2),17,94.4,23.4929,CRITICAL,1
+C2014-06 Apartment Building (2),18,100.0,22.8112,CRITICAL,0
+C2019-05 Fuel Tank Filter,3,33.3,3.8583,GREEN,6
+C2019-05 Fuel Tank Filter,4,44.4,1.059,GREEN,5
+C2019-05 Fuel Tank Filter,5,55.6,-1.9345,GREEN,4
+C2019-05 Fuel Tank Filter,6,66.7,-1.9345,GREEN,3
+C2019-05 Fuel Tank Filter,7,77.8,-2.4332,GREEN,2
+C2019-05 Fuel Tank Filter,8,88.9,-2.1946,GREEN,1
+C2019-05 Fuel Tank Filter,9,100.0,-1.5745,GREEN,0
+C2019-03 Emergency Department,3,14.3,11.5066,RED,18
+C2019-03 Emergency Department,4,19.0,28.6392,CRITICAL,17
+C2019-03 Emergency Department,5,23.8,27.057,CRITICAL,16
+C2019-03 Emergency Department,6,28.6,26.7646,CRITICAL,15
+C2019-03 Emergency Department,7,33.3,28.7397,CRITICAL,14
+C2019-03 Emergency Department,8,38.1,31.3771,CRITICAL,13
+C2019-03 Emergency Department,9,42.9,31.154,CRITICAL,12
+C2019-03 Emergency Department,10,47.6,26.0604,CRITICAL,11
+C2019-03 Emergency Department,11,52.4,27.0599,CRITICAL,10
+C2019-03 Emergency Department,12,57.1,25.1361,CRITICAL,9
+C2019-03 Emergency Department,13,61.9,25.1421,CRITICAL,8
+C2019-03 Emergency Department,14,66.7,23.5357,CRITICAL,7
+C2019-03 Emergency Department,15,71.4,12.9575,RED,6
+C2019-03 Emergency Department,16,76.2,14.4013,RED,5
+C2019-03 Emergency Department,17,81.0,11.1284,RED,4
+C2019-03 Emergency Department,18,85.7,10.1537,RED,3
+C2019-03 Emergency Department,19,90.5,10.3013,RED,2
+C2019-03 Emergency Department,20,95.2,10.0835,RED,1
+C2019-03 Emergency Department,21,100.0,11.5164,RED,0

@@ -1,0 +1,45 @@
+{
+  "run_date": "2026-03-27",
+  "test_projects": 129,
+  "metrics": [
+    {
+      "label": "EAC Formula",
+      "n_projects": 129,
+      "n_excluded": 0,
+      "mae": 18.4346,
+      "rmse": 32.8196,
+      "mape": 364.8177,
+      "mape_n": 129,
+      "mape_excluded": 0,
+      "within_5pct": 54,
+      "within_10pct": 82,
+      "within_15pct": 90
+    },
+    {
+      "label": "Random Forest",
+      "n_projects": 122,
+      "n_excluded": 7,
+      "mae": 11.9894,
+      "rmse": 23.691,
+      "mape": 120.5098,
+      "mape_n": 122,
+      "mape_excluded": 0,
+      "within_5pct": 45,
+      "within_10pct": 80,
+      "within_15pct": 104
+    },
+    {
+      "label": "ARIMA",
+      "n_projects": 14,
+      "n_excluded": 115,
+      "mae": 72.9379,
+      "rmse": 76.6136,
+      "mape": 3407.3898,
+      "mape_n": 14,
+      "mape_excluded": 0,
+      "within_5pct": 0,
+      "within_10pct": 0,
+      "within_15pct": 0
+    }
+  ]
+}
